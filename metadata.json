@@ -1,0 +1,16 @@
+{
+  "name": "puppet-template",
+  "version": "0.1.0",
+  "author": "puppet",
+  "summary": "This is a template module.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/garethr/puppet-module-skeleton",
+  "project_page": "https://github.com/garethr/puppet-module-skeleton",
+  "issues_url": "https://github.com/garethr/puppet-module-skeleton",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}

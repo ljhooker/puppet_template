@@ -1,0 +1,10 @@
+name          'puppet-template'
+version       '0.1.0'
+source        'https://github.com/garethr/puppet-module-skeleton'
+author        'puppet'
+license       'Apache 2.0'
+summary       'This is a template module.'
+description   'This is a template module.'
+project_page  'https://github.com/garethr/puppet-module-skeleton'
+
+dependency 'puppetlabs/stdlib'
