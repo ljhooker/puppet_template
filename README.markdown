@@ -1,3 +1,7 @@
+This template is extracted from garethr's puppet-module-skeleton (https://github.com/garethr/puppet-module-skeleton).
+
+Below is an example README.
+
 ####Table of Contents
 
 1. [Overview](#overview)
